@@ -35,15 +35,15 @@ GENERATED REPORT
 
   EDI File Information
 
-	Sender ID:		386028429      
-	Receiver ID:	382328142      
-	Doc Type:		834
-	Doc Name:		Benefit Enrollment and Maintenance
+	Sender ID:			386028429      
+	Receiver ID:		382328142      
+	Doc Type:			834
+	Doc Name:			Benefit Enrollment and Maintenance
 
   Insurance Information
 
 	Plan Sponsor: 		WAYNE STATE UNIVERSITY
-	Insurer: 		WAYNE STATE UNIVERSITY
+	Insurer: 			WAYNE STATE UNIVERSITY
 	Third Party Admin: 	WEYCO
 
   Member Information
