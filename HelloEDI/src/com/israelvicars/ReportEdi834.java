@@ -193,7 +193,7 @@ public class ReportEdi834 {
 					else 
 						memberId = loop.getElementsByTagName("element").item(6).getTextContent();
 					break;
-				case "2300":
+				case "2300": 
 					break;
 			}
 		}
