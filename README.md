@@ -6,7 +6,7 @@ Uses EDIReader library from Berryworks Software
 
 Generates the following report from a sample EDI file
 
-```java
+```
 ----------------------------
 
 PROJECT DETAILS
@@ -16,9 +16,9 @@ PROJECT DETAILS
 	Transaction:		834 - Benefit Enrollment and Maintenance
 
   Table Reference 
-	Document:		Standard Companion Guide Transaction Information 
-	Publisher:		Centers for Medicare & Medicaid Services (CMS) 
-	URL:			https://www.cms.gov/CCIIO/Resources/Regulations-and-Guidance/Downloads/companion-guide-for-ffe-enrollment-transaction-v15.pdf
+	Document:			Standard Companion Guide Transaction Information 
+	Publisher:			Centers for Medicare & Medicaid Services (CMS) 
+	URL:				https://www.cms.gov/CCIIO/Resources/Regulations-and-Guidance/Downloads/companion-guide-for-ffe-enrollment-transaction-v15.pdf
 
 ----------------------------
 
@@ -36,7 +36,7 @@ GENERATED REPORT
   EDI File Information
 
 	Sender ID:		386028429      
-	Receiver ID:		382328142      
+	Receiver ID:	382328142      
 	Doc Type:		834
 	Doc Name:		Benefit Enrollment and Maintenance
 
@@ -50,9 +50,9 @@ GENERATED REPORT
 
 	Member First Name:	John
 	Member Last Name:	Doe
-	Member ID:		123456
-	Prior First Name :	Samuel
-	Prior Last Name :	Prior
+	Member ID:			123456
+	Prior First Name:	Samuel
+	Prior Last Name:	Prior
 	Prior Member ID:	19330706
 
   Maintenances 
