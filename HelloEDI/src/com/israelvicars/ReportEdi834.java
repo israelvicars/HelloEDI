@@ -208,8 +208,8 @@ public class ReportEdi834 {
 		System.out.println("\tMember Last Name:\t" + memberLastName);
 		System.out.println("\tMember ID:\t\t" + memberId);
 
-		System.out.println("\tPrior First Name :\t" + memberPriorFirstName);
-		System.out.println("\tPrior Last Name :\t" + memberPriorLastName);
+		System.out.println("\tPrior First Name:\t" + memberPriorFirstName);
+		System.out.println("\tPrior Last Name:\t" + memberPriorLastName);
 		System.out.println("\tPrior Member ID:\t" + memberPriorId);
 
 		System.out.println("\n  Maintenances \n");
