@@ -25,7 +25,7 @@ PROJECT DETAILS
 PREPARING REPORT
 
   Converting to XML...
-	Output file edi/834.xml created
+	Output file xml/834.xml created
 	Transformation complete
   Parsing XML...
 
