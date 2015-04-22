@@ -26,12 +26,12 @@ public class ReportEdi834 {
     private static Document mXmlDocument;
 	
     public static void main(String args[]) {
-    	new ReportEdi834("edi/834.edi","edi/834.xml");
+    	new ReportEdi834("edi/834.edi","xml/834.xml");
     }
     
     ReportEdi834(String inputEdiDirectory, String outputXmlDirectory) {
-        mInputEdiDirectory = "edi/834.edi";
-        mOutputXmlDirectory = "edi/834.xml";
+        mInputEdiDirectory = inputEdiDirectory;
+        mOutputXmlDirectory = outputXmlDirectory;
         
         runReport();
     }
